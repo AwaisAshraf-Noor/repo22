@@ -21,7 +21,7 @@ function home() {
             <button
             onClick={handleMintButtonClick}
             >
-                Mint Abstract-Dogs
+                follow on x
             </button>
         </div>
 

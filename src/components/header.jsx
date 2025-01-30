@@ -8,7 +8,7 @@ import Logo from '../assets/AbstractDogsLogo.png'
 function header() {
 
     const handleMintButtonClick = () => {
-        window.open('', '_blank', 'noopener noreferrer');
+        window.open('https://x.com/Abstract_Dog2', '_blank', 'noopener noreferrer');
     };
 
 
@@ -37,7 +37,7 @@ function header() {
                 </li>
             </ul>
             <div className="btn">
-                <button type="button" onClick={handleMintButtonClick} className='btn_first'>Mint Abstract-Dogs</button>
+                <button type="button" onClick={handleMintButtonClick} className='btn_first'>Follow on x</button>
             </div>
             <div className="socials">
             <a 

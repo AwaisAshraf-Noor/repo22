@@ -14,11 +14,11 @@ function footer() {
                 </div>
                 <ul className='foot-list'>
                     <li>
-                        <a href=""
+                        <a href="https://x.com/Abstract_Dog2"
                             target='_blank' 
                             rel='noopener noreferrer'
                         >
-                            Mint Abstract Dogs
+                            Follow on x
                         </a>
                     </li>
                     <li>
