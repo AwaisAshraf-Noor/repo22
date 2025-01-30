@@ -1,0 +1,23 @@
+*{
+  background: #080202;
+  cursor: pointer;
+}
+
+.page{
+  width: 100%;
+  overflow: hidden;
+}
+
+.Mobnav-bar{
+  display: none;
+}
+
+@media (max-width: 720px) {
+    .header-nav{
+      display: none;
+    }
+    .Mobnav-bar{
+      display: block;
+    }
+}
+
