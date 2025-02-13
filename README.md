@@ -63,5 +63,5 @@ This project is licensed under the [MIT License](LICENSE).
 Reuben Wisdom Ikedichi
 
 ## Contact
-- Email: [ikedichiwisdom7@gmail.com]
-- Twitter: [@Rublyn111]https://x.com/Rublyn111
+- Email: [Rkawaisstar@gmail.com ]
+- Twitter: [https://x.com/AwaisAshraf_
